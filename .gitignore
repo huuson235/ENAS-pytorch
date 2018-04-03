@@ -11,7 +11,6 @@ data/cifar-10-batches-py
 logs
 
 # ETC
-.vscode
 
 # Created by https://www.gitignore.io/api/python,vim
 
@@ -124,3 +123,5 @@ Session.vim
 tags
 
 # End of https://www.gitignore.io/api/python,vim
+temp_auto_push.bat
+temp_interactive_push.bat
